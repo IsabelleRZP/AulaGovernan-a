@@ -1,0 +1,1 @@
+# Guarde nesta pasta somnente documento de especificação do projeto como plano do porjeto, modelo de dados, modelo de software editados em ferramentas específicas como oracle, dataModeler, Astah, VisagiModeler, etc.
